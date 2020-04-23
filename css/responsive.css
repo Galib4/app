@@ -1,0 +1,19 @@
+
+@media screen and (max-width: 676px) {
+	.navbar  .navbar-nav {
+	padding: 0px 0px !important;
+	}
+.navbar .navbar-brand {
+	padding: 0px 0px !important;
+	}
+	.header-items {
+	text-align: center;
+	position: relative;
+	top: 10%;
+}
+.header-items img {
+	border-radius: 50%;
+	border: 7px solid #fff;
+	width: 42%;
+}
+}
